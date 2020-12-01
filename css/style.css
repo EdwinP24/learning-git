@@ -6,7 +6,7 @@ body{
 }
 
 #cabecera{
-	background: 	green;
+	background: 	url("../images/img1.jpg") 10px 10px;
 	color: 			white;
 	margin:     	0;
 	padding: 		0.5em;
